@@ -4,16 +4,20 @@ I am learning Python from scratch and uploading my practice programs to GitHub.
 
 ## Topics Covered
 
-* Variables
-* Input and Output
-* Data Types
-* Operators
-* If-Else Statements
-* Loops
-* Strings
-* Lists
+- Variables
+- Input and Output
+- Data Types
+- If Else
+- Python Basics
 
-## Goal
+## Projects
 
-To become a Python Developer and build real-world projects.
+### Calculator
+Performs addition, subtraction, multiplication and division.
 
+### Grade Calculator
+Calculates student grades based on marks entered by the user.
+
+## Author
+
+Dhanusha
