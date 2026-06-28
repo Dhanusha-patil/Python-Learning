@@ -1,23 +1,45 @@
-# Python Learning Journey
+# 🐍 Python Learning Journey
 
-I am learning Python from scratch and uploading my practice programs to GitHub.
+Hi! I'm Dhanusha.
 
-## Topics Covered
+I am learning Python from scratch and uploading my daily practice programs to GitHub. This repository helps me track my progress and build a strong programming foundation.
 
-- Variables
-- Input and Output
-- Data Types
-- If Else
-- Python Basics
+---
 
-## Projects
+## 📚 Topics Completed
 
-### Calculator
-Performs addition, subtraction, multiplication and division.
+- ✅ Hello World
+- ✅ Variables
+- ✅ Data Types
+- ✅ Input & Output
+- ✅ Calculator Project
+- ✅ Grade Calculator
 
-### Grade Calculator
-Calculates student grades based on marks entered by the user.
+---
 
-## Author
+## 📂 Programs in this Repository
 
-Dhanusha
+| File | Description |
+|------|-------------|
+| hello.py | My first Python program |
+| variables.py | Understanding variables |
+| datatypes.py | Python data types |
+| input_output.py | Taking input and displaying output |
+| calculator.py | Basic calculator using Python |
+| grading_system.py | Student grade calculator |
+
+---
+
+## 🎯 Goal
+
+- Learn Python from beginner to advanced.
+- Upload programs regularly.
+- Build projects.
+- Improve problem-solving skills.
+- Prepare for Python developer interviews.
+
+---
+
+## 🚀 More programs and projects will be added regularly.
+
+⭐ Thank you for visiting my repository!
