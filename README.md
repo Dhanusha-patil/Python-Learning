@@ -16,6 +16,7 @@ I am learning Python from scratch and uploading my daily practice programs to Gi
 * ✅ Grade Calculator
 * ✅ Dictionary Basics
 * ✅ Dictionary Methods (`clear()` and `copy()`)
+* ✅ Sets (Basics)
 
 ---
 
@@ -33,6 +34,7 @@ I am learning Python from scratch and uploading my daily practice programs to Gi
 | grad_system.py        | Improved grade calculator                       |
 | dictionary_basics.py  | Basic dictionary operations                     |
 | dictionary_methods.py | Demonstration of `clear()` and `copy()` methods |
+| sets_basics.py        | Introduction to Python Sets and duplicate removal
 
 ---
 
@@ -50,8 +52,8 @@ I am learning Python from scratch and uploading my daily practice programs to Gi
 ## 📈 Learning Progress
 
 * 🟢 Python Basics – In Progress
-* 🟢 Dictionaries – In Progress
-* ⏳ Sets
+* ✅ Dictionaries – Completed
+* 🟢 Sets – In Progress
 * ⏳ File Handling
 * ⏳ Exception Handling
 * ⏳ Object-Oriented Programming (OOP)
